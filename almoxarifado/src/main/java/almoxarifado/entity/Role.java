@@ -1,6 +1,6 @@
 package almoxarifado.entity;
 
-public enum Perfil {
+public enum Role {
 
     ADMIN,
     OPERADOR
